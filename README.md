@@ -4,7 +4,7 @@ This section provides an overview of the React CRUD (Create, Read, Update, Delet
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#introduction) 
 - [Architecture](#architecture)
 - [Components](#components)
 - [State Management](#state-management)
